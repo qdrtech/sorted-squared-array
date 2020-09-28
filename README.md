@@ -1,3 +1,3 @@
-# Squared Sorted Array Problem
+# Sorted Squared Array Problem
 
 l337 Code
